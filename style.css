@@ -38,3 +38,8 @@ div img{
     margin-right: auto;
     width: 50%;
 }
+.sticky{
+    position: fixed;
+    top: o;
+    width: 100%;
+}
