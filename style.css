@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:gainsboro;
+}
+header{
+    text-align: center;
+    color: black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+nav{
+   text-align: center;
+   background-color:blue;
+   color: white;
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    font-size: 18px;
+    padding: 20px 15px;
+}
+div h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+div img{
+    text-align: center;
+    padding-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
