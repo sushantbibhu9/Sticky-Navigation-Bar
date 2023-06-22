@@ -9,8 +9,7 @@ body{
 header{
     text-align: center;
     color: black;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    margin: 60px 0px;
 }
 nav{
    text-align: center;
@@ -25,18 +24,13 @@ nav ul li{
     font-size: 18px;
     padding: 20px 15px;
 }
-div h2{
+#container{
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    margin-top: 60px;
 }
-div img{
-    text-align: center;
-    padding-bottom: 20px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+#container img{
     width: 50%;
+    padding: 30px 0px;
 }
 .sticky{
     position: fixed;
